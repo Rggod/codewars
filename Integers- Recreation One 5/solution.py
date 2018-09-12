@@ -12,7 +12,7 @@ list_squared(42, 250) --> [[42, 2500], [246, 84100]]'''
 
 
 
-Solution:
+#Solution:
 
 
 def list_squared(m, n):
@@ -36,8 +36,8 @@ def list_squared(m, n):
     
  
  
- Solution2(inefficient):
- # works for individual cases but not efficient for large number of sets
+# Solution2(inefficient):
+# works for individual cases but not efficient for large number of sets
  
  
  def list_squared(m, n):
